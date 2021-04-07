@@ -1,8 +1,19 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 /* All dedications */
-section[epub|type~="dedication"]{
+section[epub|type~="dedication"] > p{
 	text-align: center;
 }
 
@@ -11,6 +22,11 @@ section[epub|type~="dedication"] > *{
 	margin: auto;
 	margin-top: 3em;
 	max-width: 80%;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+	text-align: right;
 }
 
 @supports(display: flex){
@@ -29,3 +45,44 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End all dedications */
+
+/* All poetry */
+[epub|type~="z3998:poem"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
+/* End all poetry */
+
+#chapter-24 blockquote p{
+	margin-top: 1em;
+	text-align: center;
+	text-indent: 0;
+}
+
+#chapter-24 blockquote > p:first-child{
+	font-style: italic;
+}
