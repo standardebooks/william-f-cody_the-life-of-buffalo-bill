@@ -13,9 +13,6 @@ footer{
 }
 
 /* All dedications */
-section[epub|type~="dedication"] > p{
-	text-align: center;
-}
 
 section[epub|type~="dedication"] > *{
 	display: inline-block;
@@ -71,10 +68,6 @@ p span.i1{
 	text-indent: -1em;
 }
 
-p span.i2{
-	padding-left: 3em;
-	text-indent: -1em;
-}
 /* End all poetry */
 
 #chapter-24 blockquote p{
