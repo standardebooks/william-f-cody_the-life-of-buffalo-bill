@@ -73,7 +73,3 @@ p span.i1{
 	text-align: center;
 	text-indent: 0;
 }
-
-#chapter-24 blockquote > p:first-child{
-	font-style: italic;
-}
