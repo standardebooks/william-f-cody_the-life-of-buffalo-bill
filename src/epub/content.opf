@@ -82,6 +82,10 @@ An Autobiography.</meta>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="sponsor">Threadable</dc:contributor>
+		<meta property="file-as" refines="#sponsor">Threadable</meta>
+		<meta property="se:url.homepage" refines="#sponsor">https://www.threadablebooks.com</meta>
+		<meta property="role" refines="#sponsor" scheme="marc:relators">spn</meta>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://astart.ca</meta>
