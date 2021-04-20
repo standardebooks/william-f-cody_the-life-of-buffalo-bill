@@ -4,7 +4,6 @@
 header{
 	font-variant: small-caps;
 	margin: 1em;
-	text-align: center;
 }
 
 footer{
@@ -22,7 +21,6 @@ section[epub|type~="dedication"] > *{
 
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
-	text-align: right;
 }
 
 @supports(display: flex){
@@ -41,6 +39,10 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End all dedications */
+
+[epub|type~="dedication"] p[epub|type~="z3998:signature"]{
+	text-align: right;
+}
 
 /* All poetry */
 [epub|type~="z3998:poem"] p{
@@ -68,7 +70,15 @@ p span.i1{
 }
 /* End all poetry */
 
-#chapter-24 blockquote p{
+[epub|type~="z3998:poem"] header p{
+	text-align: center;
+}
+
+#chapter-24 blockquote header{
+	font-style: italic;
+}
+
+#chapter-24 blockquote > p{
 	margin-top: 1em;
 	text-align: center;
 	text-indent: 0;
