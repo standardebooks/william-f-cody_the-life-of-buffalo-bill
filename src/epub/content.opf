@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-04-20T20:39:45Z</dc:date>
+		<meta property="dcterms:modified">2021-04-20T20:39:45Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -31,8 +31,7 @@
 		<meta property="file-as" refines="#title">Life of Buffalo Bill, The</meta>
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="fulltitle">The Life of Hon. William F. Cody, Known as Buffalo Bill, The Famous Hunter, Scout and Guide. An Autobiography.</dc:title>
-		<meta property="file-as" refines="#fulltitle">Life of Hon. William F. Cody, Known as Buffalo Bill, The Famous Hunter, Scout and Guide, The.
-An Autobiography.</meta>
+		<meta property="file-as" refines="#fulltitle">Life of Hon. William F. Cody, Known as Buffalo Bill, The Famous Hunter, Scout and Guide, The. An Autobiography.</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Buffalo Bill, 1846-1917</dc:subject>
 		<dc:subject id="subject-2">Scouts (Reconnaissance) -- West (U.S.) -- Biography</dc:subject>
@@ -50,15 +49,15 @@ An Autobiography.</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The popular history of &lt;a href="https://standardebooks.org/ebooks/william-f-cody"&gt;William Frederick “Buffalo Bill” Cody&lt;/a&gt; remains more myth than anything else, yet it is undeniable he was a central figure in the American Old West. Pony Express rider, stagecoach driver, trapper, soldier, bison hunter, scout, showman—his resume reads like the quintessential record of all that makes up the Old West mythology and is all documented in his original 1879 autobiography.&lt;/p&gt;
-			&lt;p&gt;While &lt;i&gt;The Life of Buffalo Bill&lt;/i&gt; is rife with the dramatic stylings of the dime novel and the stage melodramas so popular at the time, in it Cody presents his version of his life: from his boyhood settling in the newly-opened Kansas territory, to his early life as a frontiersman. It was written when Cody was only thirty-three years old, just after he started his career as a showman and a few years before he created his world famous &lt;i&gt;Buffalo Bill’s Wild West&lt;/i&gt; show. Originally titled &lt;i&gt;The Life of Hon. William F. Cody Known as Buffalo Bill the Famous Hunter, Scout, and Guide: An Autobiography&lt;/i&gt;, it is an arguably more accurate account of both his life and the American West than the later 1917 autobiography &lt;i&gt;The Great West That Was: “Buffalo Bill’s” Life Story&lt;/i&gt; which was ghostwritten by James Montague and published after his death. Although there are still many claims made in it that are disputed today and our sense of the history has certainly changed, nevertheless &lt;i&gt;The Life of Buffalo Bill&lt;/i&gt; reveals much about both the historical William F. Cody and the Buffalo Bill of American legend, as well as an insight into the history of the American West—at least as it was seen at the time.&lt;/p&gt;
+			&lt;p&gt;The popular history of &lt;a href="https://standardebooks.org/ebooks/william-f-cody"&gt;William Frederick “Buffalo Bill” Cody&lt;/a&gt; remains more myth than anything else, yet it’s undeniable that he was a central figure in the American Old West. Pony Express rider, stagecoach driver, trapper, soldier, bison hunter, scout, showman—his resume reads like the quintessential record of all that makes up the Old West mythology, and it’s all documented in this, his original 1879 autobiography.&lt;/p&gt;
+			&lt;p&gt;While &lt;i&gt;The Life of Buffalo Bill&lt;/i&gt; is rife with the dramatic stylings of the dime novels and stage melodramas so popular at the time, in it Cody presents his version of his life: from his boyhood settling in the newly-opened Kansas territory, to his early life as a frontiersman. It was written when Cody was only thirty-three years old, just after he started his career as a showman and a few years before he created his world famous Buffalo Bill’s Wild West show. Originally titled &lt;i&gt;The Life of Hon. William F. Cody Known as Buffalo Bill the Famous Hunter, Scout, and Guide: An Autobiography&lt;/i&gt;, it is an arguably more accurate account of both his life and the American West than the later 1917 autobiography &lt;i&gt;The Great West That Was: “Buffalo Bill’s” Life Story&lt;/i&gt; which was ghostwritten by James Montague and published after his death. Although it makes many claims that are disputed today, &lt;i&gt;The Life of Buffalo Bill&lt;/i&gt; reveals much about both the historical William F. Cody and the Buffalo Bill of American legend, and gives insight into the history of the American West.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10030</dc:source>
 		<dc:source>https://archive.org/details/lifeofhonwilliam00buff</dc:source>
 		<meta property="se:production-notes">Foreword from GB retained even though it's not in the scans.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">99270</meta>
+		<meta property="se:reading-ease.flesch">63.53</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-f-cody_the-life-of-buffalo-bill</meta>
 		<dc:creator id="author">William F. Cody</dc:creator>
 		<meta property="file-as" refines="#author">Cody, William F.</meta>
@@ -95,6 +94,10 @@ An Autobiography.</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
