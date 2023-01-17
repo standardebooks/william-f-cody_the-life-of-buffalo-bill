@@ -37,7 +37,7 @@
 		<dc:subject id="subject-3">Frontier and pioneer life -- West (U.S.)</dc:subject>
 		<dc:subject id="subject-4">Pioneers -- West (U.S.) -- Biography</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">n80024458</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2010112301</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
