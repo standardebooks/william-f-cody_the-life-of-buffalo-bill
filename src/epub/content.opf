@@ -64,7 +64,7 @@
 		<dc:creator id="author">William F. Cody</dc:creator>
 		<meta property="file-as" refines="#author">Cody, William F.</meta>
 		<meta property="schema:alternateName" refines="#author">William Frederick Cody</meta>
-		<link href="https://en.wikipedia.org/wiki/William_F._Cody" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Buffalo_Bill" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80024458.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
